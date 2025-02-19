@@ -21,7 +21,7 @@ const trLarabie = localFont({
 });
 
 const videoType = localFont({
-  src: "../../public/fonts/videoType.otf",
+  src: "../../public/fonts/videotype.otf",
   variable: "--font-videoType",
   weight: "100 900",
 });
