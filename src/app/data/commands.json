@@ -1,0 +1,15 @@
+{
+  "ls": "To list all the commands",
+  "help": "This is a help message",
+  "skills": "To list all the skills",
+  "certifications":"To list all the certifications",
+  "projects": "To list all the projects",
+  "achievements":"To list all the achievements",
+  "experience": "To list all the experiences",
+  "education": "To list all the educations",
+  "about": "To get my about",
+  "contact": "To get my contact information",
+  "clear": "To clear the console",
+  "cls": "To clear the console",
+  "exit": "To exit the console"
+}

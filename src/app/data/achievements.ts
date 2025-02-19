@@ -1,0 +1,126 @@
+const Achievements = [
+    {
+      name: "StarkHack Hackathon Winner 🏅",
+      description:
+        "Won $8,500 for developing Attest Me, an innovative blockchain-based Attestation Service on Starknet Ecosystem.",
+      id: "attest-me",
+      githubLink: "https://github.com/rajeebkm/attest-me",
+      projectLink: "https://ethglobal.com/showcase/attest-me-smj4z",
+      type: "Website",
+      isWebsite: true,
+      webLink: "https://attest-me-chi.vercel.app/",
+      technologies: [
+        { name: "Starknet" },
+        { name: "Cairo" },
+        { name: "Starknet.js" },
+        { name: "ArgentX" },
+        { name: "Next.js" },
+        { name: "foundry" },
+      ],
+    },
+    {
+      name: "ETHOnline Hackathon Winner 🌟",
+      description: "Developed AuraAsset, empowering investments through the tokenization of RWA, and won the Pool Prize from Sign Protocol.",
+      id: "AuraAsset",
+      githubLink:"https://github.com/jitendragangwar123/AuraAsset",
+      projectLink:"https://ethglobal.com/showcase/aura-asset-zg3r0",
+      type: "Website",
+      isWebsite: true,
+      webLink: "https://aura-asset-front-end.vercel.app/",
+      technologies: [
+        { name: "Ethereum" },
+        { name: "Solidity" },
+        { name: "Walletconnect" },
+        { name: "Ethers.js" },
+        { name: "Next.js" },
+        { name: "foundry" },
+        { name: "Node.js" },
+        { name: "Express.js" },
+        { name: "MongoDB" },
+      ],
+    },
+    {
+      name: "Diamante Net Hackathon Winner 🚀",
+      description:
+        "Secured a $17,000 prize for FractalShares, a simplified solution for the tokenization of real-world assets, which enables fractional ownership.",
+      id: "FractalShares",
+      githubLink: "https://github.com/jitendragangwar123/FractalShares",
+      projectLink: "https://devfolio.co/projects/fractal-shares-0caa",
+      type: "Website",
+      isWebsite: true,
+      webLink: "https://fractal-shares-front-end.vercel.app/",
+      technologies: [
+        { name: "Diamante Net" },
+        { name: "Diam Wallet" },
+        { name: "Next.js" },
+        { name: "Node.js" },
+        { name: "Express.js" },
+        { name: "MongoDB" },
+      ],
+    },
+    
+    {
+      name: "ETHIndia Hackathon Winner 🏆",
+      description: "Building LuckyLotto, a seamless blockchain-powered lottery platform revolutionizing the gaming experience,and Won the Pool Prize from Coinbase.",
+      id: "luckylotto",
+      githubLink: "https://github.com/rajeebkm/luckylotto",
+      projectLink: "https://devfolio.co/projects/luckylotto-4e8a",
+      type: "Website",
+      isWebsite: true,
+      webLink: "https://luckylotto.vercel.app/",
+      technologies: [
+        { name: "Base" },
+        { name: "Solidity" },
+        { name: "Ethers.js" },
+        { name: "Walletconnect" },
+        { name: "Next.js" },
+        { name: "hardhat" },
+        { name: "Chainlink" }
+      ],
+    },
+    {
+      name: "Agentic Ethereum Hackathon Winner 🔥",
+      description:
+        "Developed BaseAgentX, a next-gen autonomous AI agent harnessing Coinbase Agent Kit, OnchainKit, and EigenLayer AVS to revolutionize real-world asset investment.Proud winner of the AgentKit Pool Prize.",
+      id: "BaseAgentX",
+      githubLink: "https://github.com/jitendragangwar123/BaseAgentX",
+      projectLink:"https://ethglobal.com/showcase/baseagentx-tsn9r",
+      type: "Website",
+      isWebsite: true,
+      webLink: "https://base-agent-x.vercel.app/",
+      technologies: [
+        { name: "Base" },
+        { name: "Solidity" },
+        { name: "Python" },
+        { name: "Ethers.js" },
+        { name: "Walletconnect" },
+        { name: "Next.js" },
+        { name: "foundry" },
+        { name: "AgentKit" },
+        { name: "AI/ML" }
+      ],
+    },
+    {
+      name: "Safe Agentathon Hackathon Winner 🏆",
+      description: "Empowering Merchants and Consumers with AI-Driven Crypto Payments for a Frictionless Financial Future.SeiAgentPay is a decentralized stablecoin payment system that allows users to make payments seamlessly using DAI, USDT, and USDC. It integrates an AI-powered recommendation system to suggest the best stablecoin based on transaction history and user behavior, ensuring cost-effective and efficient transactions.",
+      id: "SeiAgentPay",
+      githubLink: "https://github.com/jitendragangwar123/SeiAgentPay",
+      projectLink:"https://devfolio.co/projects/seiagentpay-4a63",
+      type: "Website",
+      isWebsite: true,
+      webLink: "https://sei-agent-pay.vercel.app/",
+      technologies: [
+        { name: "Sei" },
+        { name: "Solidity" },
+        { name: "Python" },
+        { name: "Ethers.js" },
+        { name: "Walletconnect" },
+        { name: "Next.js" },
+        { name: "foundry" },
+        { name: "AI/ML" }
+      ],
+    },
+  ];
+  
+  export default Achievements;
+  
